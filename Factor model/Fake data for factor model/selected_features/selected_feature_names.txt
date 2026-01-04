@@ -1,0 +1,5 @@
+momentum_12_1
+pe_ratio
+momentum_1
+accruals_st
+volatility_6m
